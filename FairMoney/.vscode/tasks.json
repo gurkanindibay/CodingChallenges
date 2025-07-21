@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run Console App",
+			"type": "shell",
+			"command": "dotnet",
+			"args": [
+				"run",
+				"--project",
+				"MyConsoleApp"
+			],
+			"group": "build",
+			"isBackground": false
+		}
+	]
+}
