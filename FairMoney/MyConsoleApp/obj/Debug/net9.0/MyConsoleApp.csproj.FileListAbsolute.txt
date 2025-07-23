@@ -12,3 +12,4 @@ C:\source\CodingChallenge\FairMoney\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.p
 C:\source\CodingChallenge\FairMoney\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.genruntimeconfig.cache
 C:\source\CodingChallenge\FairMoney\MyConsoleApp\obj\Debug\net9.0\ref\MyConsoleApp.dll
 C:\source\CodingChallenge\FairMoney\MyConsoleApp\bin\Debug\net9.0\MyConsoleApp.exe
+C:\source\CodingChallenge\FairMoney\MyConsoleApp\obj\Debug\net9.0\MyConsoleApp.sourcelink.json
