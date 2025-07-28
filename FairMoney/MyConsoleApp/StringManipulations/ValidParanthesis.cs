@@ -24,6 +24,8 @@ public class ValidParanthesis
             }
         }
 
+        if (chars1.Count > 0) return false;
+
         return true;
 
     }
