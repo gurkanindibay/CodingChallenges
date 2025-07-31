@@ -3,7 +3,7 @@ public class TwoSumProblem
     public static int[] FindTwoSum(int[] numList, int target)
     {
         int[] result = new int[2];
-        Dictionary<int, int> dict = new Dictionary<int, int>();
+        Dictionary<int, int> dict = [];
 
         for (int i = 0; i < numList.Length; i++)
         {
